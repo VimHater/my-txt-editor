@@ -1,0 +1,3 @@
+/home/aohkneyugn/my-txt-editor/build/CMakeFiles/my-txt-editor.dir
+/home/aohkneyugn/my-txt-editor/build/CMakeFiles/edit_cache.dir
+/home/aohkneyugn/my-txt-editor/build/CMakeFiles/rebuild_cache.dir
